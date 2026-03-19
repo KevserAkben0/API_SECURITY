@@ -1,6 +1,5 @@
 # API_SECURITY
 General information I gathered from my research on the  OWASP API security top 10 .
-API güvenliği, modern uygulamaların en kritik bileşenlerinden biridir. Bu doküman, yaygın API güvenlik açıklarını ve korunma yöntemlerini özetler.
 
 ---
 
